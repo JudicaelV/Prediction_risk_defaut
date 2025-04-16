@@ -1,6 +1,3 @@
-Voici une description que tu peux utiliser pour ton projet sur GitHub.
-Elle explique l'objectif, les étapes, et les outils utilisés pour créer le modèle de scoring de crédit 
-basé sur le **dataset Home Credit Default Risk** de Kaggle :
 
 ---
 
