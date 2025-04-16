@@ -8,6 +8,19 @@ ensemble de données bancaires disponibles sur **Kaggle**.
 Le but est de développer un modèle capable de déterminer la probabilité qu'un 
 client de Home Credit fasse défaut sur son crédit en utilisant des variables économiques et financières.
 
+⚠️ Les fichiers de données utilisés dans ce projet ne sont pas inclus dans ce dépôt GitHub
+car ils sont trop volumineux pour être gérés efficacement par Git standard.
+
+Le dataset utilisé, Home Credit Default Risk provenant de Kaggle,
+contient plusieurs fichiers CSV pesant plusieurs centaines de mégaoctets.
+Pour cette raison, les données ne sont pas directement versionnées dans le dépôt.
+
+💡 Pour exécuter ce projet localement, merci de :
+
+Télécharger les données depuis la page Kaggle du dataset. https://www.kaggle.com/competitions/home-credit-default-risk/data
+
+Placer les fichiers CSV dans le dossier data/ à la racine du projet.
+
 ### Objectifs du projet :
 1. **Analyse exploratoire des données (EDA)** :
    - Compréhension des variables, exploration des données manquantes et des déséquilibres dans les classes.
