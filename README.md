@@ -46,4 +46,4 @@ client de Home Credit fasse défaut sur son crédit en utilisant des variables �
 
 
 
-Tu peux bien sûr personnaliser cette description selon tes besoins et ajouter des sections supplémentaires si nécessaire. 😊
+
